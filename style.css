@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(162, 192, 240);
+}
+
+.title {
+    font-size: 5rem;
+    color: rgb(119, 0, 255);
+    text-align: center;
+}
+
+.container {
+    padding: 2em;
+    margin-left: 6em;
+}
+
+p {
+    font-size: 2rem;
+    color:rgb(221, 0, 255);
+}
